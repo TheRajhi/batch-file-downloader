@@ -1,0 +1,10 @@
+Program made by TheRajhi Riyadh, SA
+
+Ver1.00
+
+make sure there aren't any gap line in Links.txt and all files are in the same destination
+only downloads using direct links to file
+all downloads go to the Downloads folder
+
+tip: have all your pictures/videos in tabs then bookmark all tabs. Go to the bookmark 
+manager ctrl-A and copy all links and paste them into the Links.txt file.
